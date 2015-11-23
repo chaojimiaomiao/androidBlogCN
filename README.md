@@ -23,6 +23,7 @@
 ----- | ----- |
 [柳志超博客](http://liuzhichao.com/p/category/program/andriod) |
 [代码家](http://blog.daimajia.com/) |
+[胡凯](http://hukai.me/) |
 [禅](http://www.bingjie.me) |
 [Trinea](http://www.trinea.cn/) |
 [方杰](http://fangjie.info/blog/) |
@@ -30,7 +31,6 @@
 [程序亦非猿](http://yifeiyuan.me/) |
 [脉脉不得语](http://www.inferjay.com/) |
 [陈启超的博客](http://chenqichao.me/) |
-[胡凯](http://hukai.me/) |
 
 
 
