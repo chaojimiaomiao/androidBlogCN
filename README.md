@@ -1,4 +1,4 @@
-中文 android 技术博客列表
+中文 android 独立技术博客列表
 =========
 
 本博客列表会不断更新维护，如果有推荐的博客，请到此处[提交博客信息](https://github.com/chaojimiaomiao/androidBlogCN/issues/1)。
