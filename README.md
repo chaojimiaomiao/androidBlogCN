@@ -21,6 +21,7 @@
 
 博客地址 |
 ----- | ----- |
+[markzhai's home](http://blog.zhaiyifan.cn) |
 [柳志超博客](http://liuzhichao.com) |
 [代码家](http://blog.daimajia.com/) |
 [胡凯](http://hukai.me/) |
@@ -31,6 +32,7 @@
 [程序亦非猿](http://yifeiyuan.me/) |
 [脉脉不得语](http://www.inferjay.com/) |
 [陈启超的博客](http://chenqichao.me/) |
+[张涛-开源实验室](http://kymjs.com/) |
 
 
 
